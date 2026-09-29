@@ -1,0 +1,1 @@
+Clon de la aplicación de compraventa Wallapop. Este proyecto representa mi primera toma de contacto integral con el desarrollo nativo moderno en Android. La aplicación está centrada en replicar la experiencia de usuario de un marketplace, enfocándose en la presentación visual de artículos y una arquitectura de navegación sólida.
