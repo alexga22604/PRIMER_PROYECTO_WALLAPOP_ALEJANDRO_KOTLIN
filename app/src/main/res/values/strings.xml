@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WallapopAndroidAlejandro</string>
+
+    <string name="photo_placeholder">Foto aquí</string>
+    <string name="price_format">%1$.2f €</string> </resources>
